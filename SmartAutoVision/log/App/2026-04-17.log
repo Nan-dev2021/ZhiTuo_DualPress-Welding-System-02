@@ -1,0 +1,11 @@
+
+----------------------application startup--------------------------
+2026-04-17 09:42:08 --INFO -- 停止项目成功！
+2026-04-17 09:42:11 --INFO -- 初始化成功!
+2026-04-17 09:51:48 --INFO -- 启动项目成功！
+2026-04-17 09:51:48 --ERROR-- 打开设备失败:No device, please selectPLC打开失败,提示:System.Exception: TcpClientPort Open failed. Details:An exception occurred during a Ping request.
+   at Device.PortTcpClient.Open() in F:\项目\Libraries\Class\Device\000 Base\Connecor\PortTcpServer.cs:line 31
+   at Device.DevicePort.Open(String& msg) in F:\项目\Libraries\Class\Device\000 Base\Simulator\DeviceSimulateActionManager.cs:line 21
+2026-04-17 09:52:20 --INFO -- 保存项目成功！
+
+ ----------------------application shutdown--------------------------
