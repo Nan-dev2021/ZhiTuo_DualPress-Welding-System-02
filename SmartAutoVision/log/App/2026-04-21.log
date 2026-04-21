@@ -1,0 +1,59 @@
+
+----------------------application startup--------------------------
+2026-04-21 09:44:44 --INFO -- 停止项目成功！
+2026-04-21 09:44:45 --INFO -- 初始化成功!
+2026-04-21 09:44:55 --INFO -- 保存项目成功！
+2026-04-21 09:45:19 --INFO -- 保存项目成功！
+2026-04-21 09:45:19 --INFO -- 保存项目成功！
+2026-04-21 09:45:19 --INFO -- 保存项目成功！
+2026-04-21 09:45:20 --INFO -- 保存项目成功！
+
+ ----------------------application shutdown--------------------------
+
+----------------------application startup--------------------------
+2026-04-21 09:52:30 --INFO -- 停止项目成功！
+2026-04-21 09:52:31 --INFO -- 初始化成功!
+2026-04-21 09:52:46 --INFO -- 保存项目成功！
+
+----------------------application startup--------------------------
+2026-04-21 09:52:56 --INFO -- 停止项目成功！
+2026-04-21 09:52:57 --INFO -- 初始化成功!
+2026-04-21 09:53:04 --INFO -- 保存项目成功！
+2026-04-21 09:53:04 --INFO -- 保存项目成功！
+2026-04-21 09:53:13 --INFO -- 停止项目成功！
+2026-04-21 09:53:13 --INFO -- 停止项目成功！
+2026-04-21 09:53:14 --INFO -- 停止项目成功！
+2026-04-21 09:53:14 --INFO -- 初始化成功!
+2026-04-21 09:53:14 --INFO -- 保存系统配置成功！
+
+ ----------------------application shutdown--------------------------
+
+----------------------application startup--------------------------
+2026-04-21 10:11:15 --INFO -- 停止项目成功！
+2026-04-21 10:11:15 --INFO -- 初始化成功!
+2026-04-21 10:11:22 --INFO -- 启动项目成功！
+2026-04-21 10:11:32 --ERROR-- 打开设备失败:No device, please selectPLC打开失败,提示:System.Exception: TcpClientPort Open failed. Details:连接失败，请检查该IP地址是否能Ping通
+   at Device.PortTcpClient.Open() in F:\项目\Libraries\Class\Device\000 Base\Connecor\PortTcpServer.cs:line 31
+   at Device.DevicePort.Open(String& msg) in F:\项目\Libraries\Class\Device\000 Base\Simulator\DeviceSimulateActionManager.cs:line 21
+2026-04-21 10:11:36 --INFO -- 停止项目成功！
+2026-04-21 10:11:47 --INFO -- 停止项目成功！
+2026-04-21 10:11:47 --INFO -- 停止项目成功！
+2026-04-21 10:11:48 --INFO -- 停止项目成功！
+2026-04-21 10:11:50 --INFO -- 初始化成功!
+2026-04-21 10:11:50 --INFO -- 保存系统配置成功！
+2026-04-21 10:11:55 --INFO -- 启动项目成功！
+2026-04-21 10:12:06 --ERROR-- 打开设备失败:No device, please selectPLC打开失败,提示:System.Exception: TcpClientPort Open failed. Details:连接失败，请检查该IP地址是否能Ping通
+   at Device.PortTcpClient.Open() in F:\项目\Libraries\Class\Device\000 Base\Connecor\PortTcpServer.cs:line 31
+   at Device.DevicePort.Open(String& msg) in F:\项目\Libraries\Class\Device\000 Base\Simulator\DeviceSimulateActionManager.cs:line 21
+2026-04-21 10:14:52 --INFO -- 停止项目成功！
+2026-04-21 10:14:52 --INFO -- 停止项目成功！
+2026-04-21 10:14:53 --INFO -- 停止项目成功！
+2026-04-21 10:14:55 --INFO -- 初始化成功!
+2026-04-21 10:14:55 --INFO -- 保存系统配置成功！
+2026-04-21 10:15:08 --INFO -- 启动项目成功！
+2026-04-21 10:15:18 --ERROR-- 打开设备失败:No device, please selectPLC打开失败,提示:System.Exception: TcpClientPort Open failed. Details:连接失败，请检查该IP地址是否能Ping通
+   at Device.PortTcpClient.Open() in F:\项目\Libraries\Class\Device\000 Base\Connecor\PortTcpServer.cs:line 31
+   at Device.DevicePort.Open(String& msg) in F:\项目\Libraries\Class\Device\000 Base\Simulator\DeviceSimulateActionManager.cs:line 21
+2026-04-21 10:15:50 --INFO -- 保存项目成功！
+
+ ----------------------application shutdown--------------------------
